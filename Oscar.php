@@ -1,5 +1,5 @@
 <?php
-require_once ("dbvezerlo_php");
+require_once ("dbvezerlo.php");
 class Oscar{
     private $oscars=[];
     public function __construct(){
